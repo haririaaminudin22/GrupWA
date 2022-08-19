@@ -1,0 +1,29 @@
+{
+"ownerNumber": ["6281283072320@s.whatsapp.net"],
+"ownerName": ["Hariri"],
+"botName": "Hariri-Bot",
+"packname": "Hariri-Bot",
+"author": "© Ri22",
+"sessionName": "session",
+"pathimg": "./media/hinata.jpg",
+
+"medsos": {
+"youtube": "https://youtube.com/c/Riy04",
+"instagram": "https://instagram.com/riychdwayne"
+},
+
+"donasi": {
+"saweria": "https://saweria.co/Riy20",
+"dana": "081575886399",
+"AN_dana": "Riy 04",
+"gopay": "081575886399",
+"AN_gopay": "Riy 04"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}
